@@ -1,0 +1,8 @@
+#song with different time signatures
+*3
+d1r1m1o3m1r1d1
+d1r1m1f1s1o1s1f1m1r1d2
+*2
+d2r1m1f1s1l1t1
+*4
+d4r4o2m2
